@@ -1,60 +1,60 @@
-"id_regione; nome_regione;"
-"lazio_5, Rieti"
-"lazio_4, Roma"
-"lazio_1, Latina"
-"lazio_2, Frosinone"
-"lazio_3, Viterbo"
+id_regione, nome_regione,
+lazio_5, Rieti
+lazio_4, Roma
+lazio_1, Latina
+lazio_2, Frosinone
+lazio_3, Viterbo
 
-"sardegna_1, Carbonia - Iglesias"
-"sardegna_3, Cagliari"
-"sardegna_2, Medio Campidano"
-"sardegna_5, Oristano"
-"sardegna_6, Nuoro"
-"sardegna_4, Ogliastra"
-"sardegna_7, Sassari"
-"sardegna_8, Olbia - Tempio"
+sardegna_1, Carbonia - Iglesias
+sardegna_3, Cagliari
+sardegna_2, Medio Campidano
+sardegna_5, Oristano
+sardegna_6, Nuoro
+sardegna_4, Ogliastra
+sardegna_7, Sassari
+sardegna_8, Olbia - Tempio
 
-"sicilia_1, Trapani"
-"sicilia_2, Agrigento"
-"sicilia_3, Palermo"
-"sicilia_5, Enna"
-"sicilia_6, Catania"
-"sicilia_7, Siracusa"
-"sicilia_8, Ragusa"
-"sicilia_9, Caltanissetta"
+sicilia_1, Trapani
+sicilia_2, Agrigento
+sicilia_3, Palermo
+sicilia_5, Enna
+sicilia_6, Catania
+sicilia_7, Siracusa
+sicilia_8, Ragusa
+sicilia_9, Caltanissetta
 
-"calabria_1, Reggio Calabria"
-"calabria_2, Vibo Valentia"
-"calabria_3, Catanzaro"
-"calabria_4, Crotone"
-"calabria_5, Cosenza"
+calabria_1, Reggio Calabria
+calabria_2, Vibo Valentia
+calabria_3, Catanzaro
+calabria_4, Crotone
+calabria_5, Cosenza
 
-"puglia_1, Foggia"
-"puglia_2, Barletta - Adria - Trani"
-"puglia_3, Bari"
-"puglia_5, Brindisi"
-"puglia_4, Taranto"
-"puglia_6, Lecce"
+puglia_1, Foggia
+puglia_2, Barletta - Adria - Trani
+puglia_3, Bari
+puglia_5, Brindisi
+puglia_4, Taranto
+puglia_6, Lecce
 
-"basilicata_1, Potenza"
-"basilicata_2, Matera"
+basilicata_1, Potenza
+basilicata_2, Matera
 
-"molise_1, Isernia"
-"molise_2, Campobasso"
+molise_1, Isernia
+molise_2, Campobasso
 
-"campania_1, Salerno"
-"campania_3, Avellino"
-"campania_2, Napoli"
-"campania_4, Caserta"
-"campania_5, Benevento"
+campania_1, Salerno
+campania_3, Avellino
+campania_2, Napoli
+campania_4, Caserta
+campania_5, Benevento
 
-"abruzzo_1, L\'Aquila"
-"abruzzo_2, Chieti"
-"abruzzo_3, Pescara"
-"abruzzo_4, Teramo"
+abruzzo_1, L\'Aquila
+abruzzo_2, Chieti
+abruzzo_3, Pescara
+abruzzo_4, Teramo
 
-"marche_1, Ascoli Piceno"
-"marche_2, Fermo"
-"marche_3, Macerata"
-"marche_4, Ancona"
-"marche_5, Pesaro e Urbino"
+marche_1, Ascoli Piceno
+marche_2, Fermo
+marche_3, Macerata
+marche_4, Ancona
+marche_5, Pesaro e Urbino
