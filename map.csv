@@ -58,3 +58,71 @@ marche_2, Fermo
 marche_3, Macerata
 marche_4, Ancona
 marche_5, Pesaro e Urbino
+
+emiliaromagna_1, Piacenza
+emiliaromagna_2, Parma
+emiliaromagna_3, Reggio Emilia
+emiliaromagna_4, Modena
+emiliaromagna_5, Ferrara
+emiliaromagna_6, Bologna
+emiliaromagna_7, Ravenna
+emiliaromagna_8, Forlì - Cesena
+emiliaromagna_9, Rimini
+
+umbria_1, Perugia
+umbria_2, Terni
+
+toscana_1, Massa e Carrara
+toscana_2, Lucca
+toscana_3, Pistoia
+toscana_4, Prato
+toscana_5, Firenze
+toscana_6, Arezzo
+toscana_7, Siena
+toscana_8, Grosseto
+toscana_9, Livorno
+toscana_10, Pisa
+
+liguria_1, Imperia
+liguria_2, Savona
+liguria_3, Genova
+liguria_4, La Spezia
+
+piemonte_1, Cuneo
+piemonte_2, Torino
+piemonte_3, Asti
+piemonte_4, Alessandria
+piemonte_5, Biella
+piemonte_6, Vercelli
+piemonte_7, Novara
+piemonte_8, Verbano - Cusio - Ossola
+
+lombardia_1, Pavia
+lombardia_2, Milano
+lombardia_3, Varese
+lombardia_4, Monza e Brianza
+lombardia_5, Como
+lombardia_6, Lecco
+lombardia_7, Bergamo
+lombardia_8, Brescia
+lombardia_9, Mantova
+lombardia_10, Cremona
+lombardia_11, Sondrio
+
+friuli_1, Pordenone
+friuli_2, Udine
+friuli_3, Gorizia
+friuli_4, Trieste
+
+trentino_1, Trento
+trentino_2, Bolzano
+
+valledaosta_1, Aosta
+
+veneto_1, Verona
+veneto_2, Rovigo
+veneto_3, Venezia
+veneto_4, Treviso
+veneto_5, Padova
+veneto_6, Vicenza
+veneto_7, Belluno
