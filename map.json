@@ -1,0 +1,524 @@
+[
+    {
+        "id": "IT-36",
+        "area": "Friuli Venezia Giulia",
+        "prefix": "friuliHigh"
+    },
+    {
+        "id": "IT-34",
+        "area": "Veneto",
+        "prefix": "venetoHigh"
+    },
+    {
+        "id": "IT-32",
+        "area": "Trentino Alto Adige",
+        "prefix": "trentinoHigh"
+    },
+    {
+        "id": "IT-25",
+        "area": "Lombardia",
+        "prefix": "lombardiaHigh"
+    },
+    {
+        "id": "IT-23",
+        "area": "Valle D'aosta",
+        "prefix": "valledaostaHigh"
+    },
+    {
+        "id": "IT-21",
+        "area": "Piemonte",
+        "prefix": "piemonteHigh"
+    },
+    {
+        "id": "IT-42",
+        "area": "Liguria",
+        "prefix": "liguriaHigh"
+    },
+    {
+        "id": "IT-45",
+        "area": "Emilia Romagna",
+        "prefix": "emiliaromagnaHigh"
+    },
+    {
+        "id": "IT-52",
+        "area": "Toscana",
+        "prefix": "toscanaHigh"
+    },
+    {
+        "id": "IT-55",
+        "area": "Umbria",
+        "prefix": "umbriaHigh"
+    },
+    {
+        "id": "IT-57",
+        "area": "Marche",
+        "prefix": "marcheHigh"
+    },
+    {
+        "id": "IT-65",
+        "area": "Abruzzo",
+        "prefix": "abruzzoHigh"
+    },
+    {
+        "id": "IT-67",
+        "area": "Molise",
+        "prefix": "moliseHigh"
+    },
+    {
+        "id": "IT-72",
+        "area": "Campania",
+        "prefix": "campaniaHigh"
+    },
+    {
+        "id": "IT-75",
+        "area": "Puglia",
+        "prefix": "pugliaHigh"
+    },
+    {
+        "id": "IT-77",
+        "area": "Basilicata",
+        "prefix": "basilicataHigh"
+    },
+    {
+        "id": "IT-78",
+        "area": "Calabria",
+        "prefix": "calabriaHigh"
+    },
+    {
+        "id": "IT-82",
+        "area": "Sicilia",
+        "prefix": "siciliaHigh"
+    },
+    {
+        "id": "lazio_5",
+        "area": " Rieti"
+    },
+    {
+        "id": "lazio_4",
+        "area": " Roma"
+    },
+    {
+        "id": "lazio_1",
+        "area": " Latina"
+    },
+    {
+        "id": "lazio_2",
+        "area": " Frosinone"
+    },
+    {
+        "id": "lazio_3",
+        "area": " Viterbo"
+    },
+    {
+        "id": "sardegna_1",
+        "area": " Carbonia - Iglesias"
+    },
+    {
+        "id": "sardegna_3",
+        "area": " Cagliari"
+    },
+    {
+        "id": "sardegna_2",
+        "area": " Medio Campidano"
+    },
+    {
+        "id": "sardegna_5",
+        "area": " Oristano"
+    },
+    {
+        "id": "sardegna_6",
+        "area": " Nuoro"
+    },
+    {
+        "id": "sardegna_4",
+        "area": " Ogliastra"
+    },
+    {
+        "id": "sardegna_7",
+        "area": " Sassari"
+    },
+    {
+        "id": "sardegna_8",
+        "area": " Olbia - Tempio"
+    },
+    {
+        "id": "sicilia_1",
+        "area": " Trapani"
+    },
+    {
+        "id": "sicilia_2",
+        "area": " Agrigento"
+    },
+    {
+        "id": "sicilia_3",
+        "area": " Palermo"
+    },
+    {
+        "id": "sicilia_5",
+        "area": " Enna"
+    },
+    {
+        "id": "sicilia_6",
+        "area": " Catania"
+    },
+    {
+        "id": "sicilia_7",
+        "area": " Siracusa"
+    },
+    {
+        "id": "sicilia_8",
+        "area": " Ragusa"
+    },
+    {
+        "id": "sicilia_9",
+        "area": " Caltanissetta"
+    },
+    {
+        "id": "calabria_1",
+        "area": " Reggio Calabria"
+    },
+    {
+        "id": "calabria_2",
+        "area": " Vibo Valentia"
+    },
+    {
+        "id": "calabria_3",
+        "area": " Catanzaro"
+    },
+    {
+        "id": "calabria_4",
+        "area": " Crotone"
+    },
+    {
+        "id": "calabria_5",
+        "area": " Cosenza"
+    },
+    {
+        "id": "puglia_1",
+        "area": " Foggia"
+    },
+    {
+        "id": "puglia_2",
+        "area": " Barletta - Adria - Trani"
+    },
+    {
+        "id": "puglia_3",
+        "area": " Bari"
+    },
+    {
+        "id": "puglia_5",
+        "area": " Brindisi"
+    },
+    {
+        "id": "puglia_4",
+        "area": " Taranto"
+    },
+    {
+        "id": "puglia_6",
+        "area": " Lecce"
+    },
+    {
+        "id": "basilicata_1",
+        "area": " Potenza"
+    },
+    {
+        "id": "basilicata_2",
+        "area": " Matera"
+    },
+    {
+        "id": "molise_1",
+        "area": " Isernia"
+    },
+    {
+        "id": "molise_2",
+        "area": " Campobasso"
+    },
+    {
+        "id": "campania_1",
+        "area": " Salerno"
+    },
+    {
+        "id": "campania_3",
+        "area": " Avellino"
+    },
+    {
+        "id": "campania_2",
+        "area": " Napoli"
+    },
+    {
+        "id": "campania_4",
+        "area": " Caserta"
+    },
+    {
+        "id": "campania_5",
+        "area": " Benevento"
+    },
+    {
+        "id": "abruzzo_1",
+        "area": " L\\'Aquila"
+    },
+    {
+        "id": "abruzzo_2",
+        "area": " Chieti"
+    },
+    {
+        "id": "abruzzo_3",
+        "area": " Pescara"
+    },
+    {
+        "id": "abruzzo_4",
+        "area": " Teramo"
+    },
+    {
+        "id": "marche_1",
+        "area": " Ascoli Piceno"
+    },
+    {
+        "id": "marche_2",
+        "area": " Fermo"
+    },
+    {
+        "id": "marche_3",
+        "area": " Macerata"
+    },
+    {
+        "id": "marche_4",
+        "area": " Ancona"
+    },
+    {
+        "id": "marche_5",
+        "area": " Pesaro e Urbino"
+    },
+    {
+        "id": "emiliaromagna_1",
+        "area": " Piacenza"
+    },
+    {
+        "id": "emiliaromagna_2",
+        "area": " Parma"
+    },
+    {
+        "id": "emiliaromagna_3",
+        "area": " Reggio Emilia"
+    },
+    {
+        "id": "emiliaromagna_4",
+        "area": " Modena"
+    },
+    {
+        "id": "emiliaromagna_5",
+        "area": " Ferrara"
+    },
+    {
+        "id": "emiliaromagna_6",
+        "area": " Bologna"
+    },
+    {
+        "id": "emiliaromagna_7",
+        "area": " Ravenna"
+    },
+    {
+        "id": "emiliaromagna_8",
+        "area": " Forlì - Cesena"
+    },
+    {
+        "id": "emiliaromagna_9",
+        "area": " Rimini"
+    },
+    {
+        "id": "umbria_1",
+        "area": " Perugia"
+    },
+    {
+        "id": "umbria_2",
+        "area": " Terni"
+    },
+    {
+        "id": "toscana_1",
+        "area": " Massa e Carrara"
+    },
+    {
+        "id": "toscana_2",
+        "area": " Lucca"
+    },
+    {
+        "id": "toscana_3",
+        "area": " Pistoia"
+    },
+    {
+        "id": "toscana_4",
+        "area": " Prato"
+    },
+    {
+        "id": "toscana_5",
+        "area": " Firenze"
+    },
+    {
+        "id": "toscana_6",
+        "area": " Arezzo"
+    },
+    {
+        "id": "toscana_7",
+        "area": " Siena"
+    },
+    {
+        "id": "toscana_8",
+        "area": " Grosseto"
+    },
+    {
+        "id": "toscana_9",
+        "area": " Livorno"
+    },
+    {
+        "id": "toscana_10",
+        "area": " Pisa"
+    },
+    {
+        "id": "liguria_1",
+        "area": " Imperia"
+    },
+    {
+        "id": "liguria_2",
+        "area": " Savona"
+    },
+    {
+        "id": "liguria_3",
+        "area": " Genova"
+    },
+    {
+        "id": "liguria_4",
+        "area": " La Spezia"
+    },
+    {
+        "id": "piemonte_1",
+        "area": " Cuneo"
+    },
+    {
+        "id": "piemonte_2",
+        "area": " Torino"
+    },
+    {
+        "id": "piemonte_3",
+        "area": " Asti"
+    },
+    {
+        "id": "piemonte_4",
+        "area": " Alessandria"
+    },
+    {
+        "id": "piemonte_5",
+        "area": " Biella"
+    },
+    {
+        "id": "piemonte_6",
+        "area": " Vercelli"
+    },
+    {
+        "id": "piemonte_7",
+        "area": " Novara"
+    },
+    {
+        "id": "piemonte_8",
+        "area": " Verbano - Cusio - Ossola"
+    },
+    {
+        "id": "lombardia_1",
+        "area": " Pavia"
+    },
+    {
+        "id": "lombardia_2",
+        "area": " Milano"
+    },
+    {
+        "id": "lombardia_3",
+        "area": " Varese"
+    },
+    {
+        "id": "lombardia_4",
+        "area": " Monza e Brianza"
+    },
+    {
+        "id": "lombardia_5",
+        "area": " Como"
+    },
+    {
+        "id": "lombardia_6",
+        "area": " Lecco"
+    },
+    {
+        "id": "lombardia_7",
+        "area": " Bergamo"
+    },
+    {
+        "id": "lombardia_8",
+        "area": " Brescia"
+    },
+    {
+        "id": "lombardia_9",
+        "area": " Mantova"
+    },
+    {
+        "id": "lombardia_10",
+        "area": " Cremona"
+    },
+    {
+        "id": "lombardia_11",
+        "area": " Sondrio"
+    },
+    {
+        "id": "friuli_1",
+        "area": " Pordenone"
+    },
+    {
+        "id": "friuli_2",
+        "area": " Udine"
+    },
+    {
+        "id": "friuli_3",
+        "area": " Gorizia"
+    },
+    {
+        "id": "friuli_4",
+        "area": " Trieste"
+    },
+    {
+        "id": "trentino_1",
+        "area": " Trento"
+    },
+    {
+        "id": "trentino_2",
+        "area": " Bolzano"
+    },
+    {
+        "id": "valledaosta_1",
+        "area": " Aosta"
+    },
+    {
+        "id": "veneto_1",
+        "area": " Verona"
+    },
+    {
+        "id": "veneto_2",
+        "area": " Rovigo"
+    },
+    {
+        "id": "veneto_3",
+        "area": " Venezia"
+    },
+    {
+        "id": "veneto_4",
+        "area": " Treviso"
+    },
+    {
+        "id": "veneto_5",
+        "area": " Padova"
+    },
+    {
+        "id": "veneto_6",
+        "area": " Vicenza"
+    },
+    {
+        "id": "veneto_7",
+        "area": " Belluno"
+    }
+]
