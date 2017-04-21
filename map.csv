@@ -17,13 +17,13 @@ IT-75,Puglia
 IT-77,Basilicata
 IT-78,Calabria
 IT-82,Sicilia
-
+IT-88,Sardegna
+IT-62,Lazio
 lazio_5,Rieti
 lazio_4,Roma
 lazio_1,Latina
 lazio_2,Frosinone
 lazio_3,Viterbo
-
 sardegna_1,Carbonia - Iglesias
 sardegna_3,Cagliari
 sardegna_2,Medio Campidano
@@ -32,7 +32,6 @@ sardegna_6,Nuoro
 sardegna_4,Ogliastra
 sardegna_7,Sassari
 sardegna_8,Olbia - Tempio
-
 sicilia_1,Trapani
 sicilia_2,Agrigento
 sicilia_3,Palermo
@@ -41,43 +40,35 @@ sicilia_6,Catania
 sicilia_7,Siracusa
 sicilia_8,Ragusa
 sicilia_9,Caltanissetta
-
 calabria_1,Reggio Calabria
 calabria_2,Vibo Valentia
 calabria_3,Catanzaro
 calabria_4,Crotone
 calabria_5,Cosenza
-
 puglia_1,Foggia
 puglia_2,Barletta - Adria - Trani
 puglia_3,Bari
 puglia_5,Brindisi
 puglia_4,Taranto
 puglia_6,Lecce
-
 basilicata_1,Potenza
 basilicata_2,Matera
-
 molise_1,Isernia
 molise_2,Campobasso
-
 campania_1,Salerno
 campania_3,Avellino
 campania_2,Napoli
 campania_4,Caserta
 campania_5,Benevento
-
-abruzzo_1,L\'Aquila
+abruzzo_1,L'Aquila
 abruzzo_2,Chieti
 abruzzo_3,Pescara
 abruzzo_4,Teramo
-
 marche_1,Ascoli Piceno
 marche_2,Fermo
 marche_3,Macerata
 marche_4,Ancona
 marche_5,Pesaro e Urbino
-
 emiliaromagna_1,Piacenza
 emiliaromagna_2,Parma
 emiliaromagna_3,Reggio Emilia
@@ -85,12 +76,10 @@ emiliaromagna_4,Modena
 emiliaromagna_5,Ferrara
 emiliaromagna_6,Bologna
 emiliaromagna_7,Ravenna
-emiliaromagna_8,Forlì - Cesena
+emiliaromagna_8,Forli - Cesena
 emiliaromagna_9,Rimini
-
 umbria_1,Perugia
 umbria_2,Terni
-
 toscana_1,Massa e Carrara
 toscana_2,Lucca
 toscana_3,Pistoia
@@ -101,12 +90,10 @@ toscana_7,Siena
 toscana_8,Grosseto
 toscana_9,Livorno
 toscana_10,Pisa
-
 liguria_1,Imperia
 liguria_2,Savona
 liguria_3,Genova
 liguria_4,La Spezia
-
 piemonte_1,Cuneo
 piemonte_2,Torino
 piemonte_3,Asti
@@ -115,7 +102,6 @@ piemonte_5,Biella
 piemonte_6,Vercelli
 piemonte_7,Novara
 piemonte_8,Verbano - Cusio - Ossola
-
 lombardia_1,Pavia
 lombardia_2,Milano
 lombardia_3,Varese
@@ -127,17 +113,13 @@ lombardia_8,Brescia
 lombardia_9,Mantova
 lombardia_10,Cremona
 lombardia_11,Sondrio
-
 friuli_1,Pordenone
 friuli_2,Udine
 friuli_3,Gorizia
 friuli_4,Trieste
-
 trentino_1,Trento
 trentino_2,Bolzano
-
 valledaosta_1,Aosta
-
 veneto_1,Verona
 veneto_2,Rovigo
 veneto_3,Venezia

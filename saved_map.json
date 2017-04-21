@@ -20,6 +20,16 @@
         "prefix": "lombardiaHigh"
     },
     {
+        "id": "IT-88",
+        "area": "Sardegna",
+        "prefix": "sardegnaHigh"
+    },
+    {
+        "id": "IT-62",
+        "area": "Lazio",
+        "prefix": "lazioHigh"
+    },
+    {
         "id": "IT-23",
         "area": "Valle D'aosta",
         "prefix": "valledaostaHigh"
